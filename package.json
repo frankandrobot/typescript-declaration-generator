@@ -1,0 +1,16 @@
+{
+  "name": "typescript-declaration-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1",
+    "ntypescript": "1.201601090605.1",
+    "typescript": "^1.7.5"
+  }
+}
