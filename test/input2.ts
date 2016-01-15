@@ -1,6 +1,6 @@
 export const foo = 'foo'
 
-export function bar() { return 'bar' }
+export function bar(aha : IBaz) { return 'bar' }
 
 export interface IBaz {
     baz()
