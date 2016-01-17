@@ -1,8 +1,8 @@
 declare module 'TestModule' {
 
-    var foo : string
+    const foo : string
 
-    var bar : {() : string}
+    const bar : {() : string}
 
     export interface IBaz {
         baz()
